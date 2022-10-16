@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: linear-gradient(45deg, rgb(172, 7, 190), rgb(120, 7, 190), rgb(7, 190, 190) );
+    height: 100vh;
+}
+.container{
+    border: 2px solid ;
+    padding: 40px;
+    border-radius: 15px;
+    background: linear-gradient(45deg, rgb(7, 53, 190), rgb(91, 16, 138), rgb(190, 7, 22) );;
+}
