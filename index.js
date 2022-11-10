@@ -1,9 +1,7 @@
-console.log("first");
-
 let demo = document.getElementById("demo");
 // console.log(demo);
 
-let deadline = new Date("Nov, 2022 12:00:00").getTime();
+let deadline = new Date("Jun, 2023 12:00:00").getTime();
 // console.log(deadline);
 
 // let now = new Date().getTime();
